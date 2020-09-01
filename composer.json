@@ -1,5 +1,5 @@
 {
-    "name": "metaregistrar/php-epp-client",
+    "name": "finnishtechcompany/php-epp-client",
     "type": "library",
     "description": "Object-oriented PHP EPP Client",
     "keywords": ["xml","epp","domains"],
@@ -9,6 +9,10 @@
         {
             "name": "Ewout de Graaf",
             "email": "ewout@metaregistrar.com"
+        },
+        {
+            "name": "Fiteco",
+            "email": "support@fiteco.fi"
         }
     ],
     "require": {
